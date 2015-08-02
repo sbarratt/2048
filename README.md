@@ -7,18 +7,16 @@ This is a lightweight 2048 Engine and AI written in C. Boards are stored as 64-b
 
 ## Code Example
 
-```{r, engine='bash', count_lines}
+```bash
 $ gcc 2048.c -o 2048
 $ ./2048
 ```
 
 ## Installation
 
-git clone 
-
-## API Reference
-
-
+```bash
+git clone https://github.com/sbarratt/2048.git
+```
 
 ## License
 
