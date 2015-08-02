@@ -7,10 +7,10 @@ This is a lightweight 2048 Engine and AI written in C. Boards are stored as 64-b
 
 ## Code Example
 
-'''bash
+```bash
 gcc 2048.c -o 2048
 ./2048
-'''
+```
 
 ## Installation
 
