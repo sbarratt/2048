@@ -15,7 +15,7 @@ $ ./2048
 ## Installation
 
 ```bash
-git clone https://github.com/sbarratt/2048.git
+$ git clone https://github.com/sbarratt/2048.git
 ```
 
 ## License
